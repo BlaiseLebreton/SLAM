@@ -4,7 +4,7 @@
 #include <opencv2/videoio.hpp>
 #include <opencv2/highgui.hpp>
 #include "struct.h"
-#include "lidar.h"
+#include "lidar/lidar.h"
 
 using namespace cv;
 using namespace std;

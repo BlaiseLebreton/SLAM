@@ -1,6 +1,6 @@
 #include "/home/pi/LidarSDK/include/CYdLidar.h"
 #include <iostream>
-#include "struct.h"
+#include "../struct.h"
 
 using namespace std;
 using namespace ydlidar;
